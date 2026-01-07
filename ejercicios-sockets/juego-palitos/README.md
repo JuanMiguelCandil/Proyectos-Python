@@ -18,7 +18,7 @@ El proyecto ha sido desarrollado como práctica académica.
 - Entorno de desarrollo: Visual Studio Code
 
 ## Instrucciones de uso
-1. Ejecutar el archivo.py
+1. Ejecutar el archivo con nombre: "palitos.py"
 2. Seleccionar de que quiere jugar
 3. Compartir la IP o escribir la IP del servidor
 4. Comenzar a jugar
