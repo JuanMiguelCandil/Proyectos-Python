@@ -1,6 +1,6 @@
 # Juego de los palitos
 
-Juego de palitos donde dos jugadores, uno hace de servidor y otro de cliente, tiene que jugar al juego de los palitos.
+Este proyecto implementa el **Juego de los Palitos** en Python utilizando sockets TCP para comunicación entre un **servidor** y un **cliente**.
 
 ## Descripción
 Este juego consiste en que ambos jugadores tiene que ir quitando palitos, entre 1 y 3 palitos por ronda. El jugador que quite el último palito pierde la partida.
